@@ -4734,3 +4734,23 @@ html[dir="rtl"] .notification-left-aligned {
 .dropdown-chevron-icon {
   vertical-align: middle;
 }
+
+/* custom h2w code */
+.search-icon.home {
+    top: 83%;
+}
+
+.page-hero {
+	font-size: 36px;
+}
+
+.footer {
+  background-color: #f8fafe;
+}
+
+.bread {
+  box-shadow: 0 0px 3px 0 rgba(0,0,0,.09), 0 5px 12px 0 rgba(0,0,0,.03), 0 0 0 0 transparent;
+  border-top: none;
+  padding-top: 10px;
+  margin-bottom: 50px;
+}
