@@ -4751,6 +4751,6 @@ html[dir="rtl"] .notification-left-aligned {
 .bread {
   box-shadow: 0 0px 3px 0 rgba(0,0,0,.09), 0 5px 12px 0 rgba(0,0,0,.03), 0 0 0 0 transparent;
   border-top: none;
-  padding-top: 10px;
+  padding-top: 12px;
   margin-bottom: 50px;
 }
