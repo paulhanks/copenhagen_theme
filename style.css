@@ -4764,3 +4764,25 @@ html[dir="rtl"] .notification-left-aligned {
   font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f015";
   padding-right: 5px;
 }
+
+@media (min-width: 1024px) {
+  .article-sidebar {
+    flex: 0 0 20%;
+  }
+  .collapsible-sidebar-body {
+    display: block;
+    margin-top: 18px;
+  }
+  .collapsible-sidebar {
+    padding-right: 20px;
+    border-right: 1px solid #ddd;
+  }
+  .article {
+    max-width: 80%;
+    padding: 0 8%;
+  }
+}
+
+.sidenav-item {
+  font-weight: 400;
+}
