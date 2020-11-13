@@ -4754,3 +4754,13 @@ html[dir="rtl"] .notification-left-aligned {
   padding-top: 12px;
   margin-bottom: 50px;
 }
+
+.breadcrumbs li:first-child a:before {
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f015";
+  padding-right: 5px;
+}
