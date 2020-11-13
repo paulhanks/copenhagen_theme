@@ -4765,6 +4765,10 @@ html[dir="rtl"] .notification-left-aligned {
   padding-right: 5px;
 }
 
+.breadcrumbs li {
+    font-size: 14px;
+}
+
 @media (min-width: 1024px) {
   .article-sidebar {
     flex: 0 0 20%;
