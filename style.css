@@ -4781,6 +4781,9 @@ html[dir="rtl"] .notification-left-aligned {
     max-width: 80%;
     padding: 0 8%;
   }
+  .category-content {
+    flex: 0 0 100%;
+  }
 }
 
 .sidenav-item {
