@@ -4796,3 +4796,11 @@ html[dir="rtl"] .notification-left-aligned {
 .article-list-item a {
     color: #17a2b8;
 }
+
+html, body, h1, h2, h3, h4, h5, h6, a {
+  font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-weight: 600;
+}
